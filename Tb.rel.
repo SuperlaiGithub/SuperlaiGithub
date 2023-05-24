@@ -1,0 +1,5 @@
+. code-block::
+
+   $ cargo build
+      Compiling os v0.1.0 (/home/shinbokuow/workspace/v3/rCore-Tutorial-v3/os)
+   error: requires `start` lang_item
